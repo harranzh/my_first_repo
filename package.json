@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/harranzh/my_first_repo/issues"
   },
-  "homepage": "https://github.com/harranzh/my_first_repo#readme"
+  "homepage": "https://github.com/harranzh/my_first_repo#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
 }
